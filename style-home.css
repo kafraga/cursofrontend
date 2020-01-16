@@ -1,0 +1,56 @@
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.titulo-banner img {
+	width: 100%;
+}
+
+.titulo-banner h1{
+	text-align: right;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+.texto-principal{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+	padding: 20px 0;
+	text-align: justify;
+}
+
+#missao {
+	font-size: 20px;
+}
+
+em strong {
+	color: red;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios {
+	position: block;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.lista-beneficios {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 30px;
+	width: 50%;
+}
+
+.imagembeneficios {
+	display: inline-block;
+	width: 50%;
+}
+
